@@ -1,4 +1,4 @@
-    traccar
+    mytraccar
 
 Web page - http://www.traccar.org
 
